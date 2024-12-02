@@ -1,0 +1,30 @@
+println 123
+var x = ( 2.3 + ( 5.1 + 10.2 ) )
+
+x = (x + 100.3) + 3.4
+const g = (x == 2.3)
+println g
+var z = 5 * 10
+var y = 6
+
+if (z==(y-2)){println "AAA"}
+elif(z==(y-1)){println "CCC"}
+elif(z==(y-2)){println "YYY"}
+else{ println "BBB" }
+
+/*Тут многострочный комментарий!!!
+строки
+*/
+
+println x
+
+println "Hi Man"
+
+println 2.5
+
+while (z<100) {
+z=z+1
+println z
+}
+
+/*asdasdas*/
